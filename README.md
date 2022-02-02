@@ -8,8 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Make sure NPM is installed in the system by running the command "npm --version". FYI, while installing Node.js, the NPM also installed by default.
 3. Make sure Angular CLI is installed in the system by running the command "ng version". If it is not installed, run the command "npm install @angular/cli -g" to get the latest Angular CLI.
 4. Note: I have created the project with the below specified version, so please make sure that your system should have the same or greater version to run it in your system
-	a. Angular CLI: 13.0.4
-	b. Node: 16.13.0
+	a. Angular CLI: 13.0.4,
+	b. Node: 16.13.0,
 	c. Package Manager: npm 8.1.0
 
 ## Run the color-assignment in the local on Node.js server
