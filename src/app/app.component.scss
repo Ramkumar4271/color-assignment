@@ -1,0 +1,20 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    margin-top: 3rem;
+}  
+.example-full-width {
+    width: 100%;
+}
+.mat-card {
+    max-width: 60rem;
+    margin: auto;
+    mat-grid-tile {
+        color: #fff;
+        font-size: large;
+        text-align: center;
+        cursor: pointer;
+    }
+}
